@@ -58,8 +58,8 @@ body {
 .filter-nav a{
     text-decoration: none;
     padding: 9px;
-     color: #d45c23;
-     border: 1px solid #be6d47;
+     color: #37389d;
+     border: 1px solid #696bc5;
      border-radius: 4px;
      margin: 4px;
 }
@@ -147,6 +147,14 @@ body {
 .only-large-screen {
     display: none;
 }
+
+footer {
+    background-color: rgba(6, 3, 56, 0.324);
+    color: white;
+    display: block;
+    padding: 20px 0;
+    text-align: center;
+  }
 
 @media screen and (min-width: 768px) {
     .animal-card{
