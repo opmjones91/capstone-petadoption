@@ -27,7 +27,11 @@ This project was developed using Visual Studio Code and Github workspaces. The f
 
 1. Use arrays, objects, sets or maps to store and retrieve information that is displayed in your app.
 
-2.
+2. Create 3 or more unit tests for your application (and document how to run them).
+
+- The project should be downloaded from GitHub as stated before which contains a package-lock.json file with dependencies to a specific version number.
+- npm install --save-dev jest
+- Run "npm test" or npx jest"
 
 3. Retrieve data from a third-party API and use it to display something within your app.
 
